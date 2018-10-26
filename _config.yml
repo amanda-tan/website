@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Amanda Tan"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Dolorem Ipsum 
 
 email: a-mail@mail.mail
 #blog logo
@@ -23,9 +23,9 @@ author_image: "/assets/images/Chloe is Two-0054-2.png"
 paginate:	5
 
 url: "https://amanda-tan.github.io/website" # the base hostname & protocol for your site
-baseurl: "https://amanda-tan.github.io/website/"
+baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: '@amanda-tan'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
