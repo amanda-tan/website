@@ -23,7 +23,7 @@ author_image: "/assets/images/Chloe is Two-0054-2.png"
 paginate:	5
 
 url: "https://amanda-tan.github.io/website" # the base hostname & protocol for your site
-baseurl: ""
+baseurl: "https://amanda-tan.github.io/website"
 #used to display twitter cards
 twitter_handle: '@amanda-tan'
 
